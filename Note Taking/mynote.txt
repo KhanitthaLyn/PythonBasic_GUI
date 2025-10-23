@@ -1,5 +1,42 @@
-Modern
-42
-bold
-kongruksiam
-ก้องรักสยาม
+
+Morning:
+
+07:00 – Wake up & morning stretch
+
+07:30 – Breakfast & coffee
+
+08:00 – Review emails and schedule
+
+09:00 – Work on project: backend Java development
+
+Afternoon:
+
+12:00 – Lunch break
+
+13:00 – Team meeting / stand-up
+
+14:00 – Continue coding: API integration
+
+16:00 – Quick coffee break & check messages
+
+Evening:
+
+18:00 – Gym / evening walk
+
+19:00 – Dinner
+
+20:00 – Study German (B1 exam prep)
+
+21:30 – Plan next day’s tasks
+
+22:00 – Relax: read or watch a series
+
+23:00 – Sleep
+
+Notes / Reminders:
+
+Check deadlines for freelance project
+
+Prepare documents for Germany move
+
+Schedule Konsularbescheinigung appointment
