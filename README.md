@@ -15,7 +15,8 @@ These projects are perfect for beginners to practice **Python syntax, data struc
 A simple task management app to **add, view, and remove tasks**.
 
 **Screenshot:**  
-![Check List App](screenshots/checklist.png)  
+<img width="521" height="557" alt="Screenshot 2568-10-25 at 13 32 20" src="https://github.com/user-attachments/assets/8dcbbc4d-02f2-4c4c-aeb1-7e9741ed8871" />
+
 
 ---
 
@@ -23,7 +24,8 @@ A simple task management app to **add, view, and remove tasks**.
 Convert temperatures between **Celsius, Fahrenheit, and Kelvin** with an easy-to-use GUI.
 
 **Screenshot:**  
-![Temperature Converter](screenshots/temperature.png)  
+<img width="420" height="254" alt="Screenshot 2568-10-25 at 13 34 29" src="https://github.com/user-attachments/assets/db106635-f198-41f2-ad8e-04bfeba2c630" />
+
 
 ---
 
@@ -31,7 +33,7 @@ Convert temperatures between **Celsius, Fahrenheit, and Kelvin** with an easy-to
 A **basic calculator** supporting addition, subtraction, multiplication, and division.
 
 **Screenshot:**  
-![Calculator App](screenshots/calculator.png)  
+<img width="297" height="425" alt="Screenshot 2568-10-25 at 13 31 04" src="https://github.com/user-attachments/assets/1fa4c294-f249-4d6e-ace6-3b0b6ef8b98f" />
 
 ---
 
@@ -39,7 +41,7 @@ A **basic calculator** supporting addition, subtraction, multiplication, and div
 Create, view, and delete simple **notes** in a lightweight GUI.
 
 **Screenshot:**  
-![Note App](screenshots/note.png)  
+<img width="815" height="650" alt="Screenshot 2568-10-25 at 13 33 36" src="https://github.com/user-attachments/assets/548f338a-c3de-4ff7-ad14-d1757535f433" />
 
 ---
 
